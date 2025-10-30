@@ -6,6 +6,28 @@ A web-based platform built to assist farmers and agricultural enthusiasts by pro
 
 ---
 
+## 📸 Screenshots
+
+### Hero Image
+![Hero Image](./heroimage.png)
+
+### Sign In
+![Sign In](./signin.png)
+
+### Dashboard
+![Dashboard](./dashboard.png)
+
+### Weather Dashboard
+![Weather Dashboard](./weather.png)
+
+### News Feed
+![News Feed](./news.png)
+
+### Detection
+![Detection Before](./diseasedetection-before.png)
+
+---
+
 ## 🚀 Features
 
 ### 🔐 User Authentication (Firebase)
@@ -117,7 +139,13 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Taniya-1234/Tomato_Care/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/Taniya-1234/tomato_care/issues).
 
 ---
 
+## 👨‍💻 Author
+
+**Your Name**
+- GitHub: [@Taniya-1234](https://github.com/Taniya-1234)
+
+---
