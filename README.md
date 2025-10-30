@@ -97,10 +97,10 @@ REACT_APP_GNEWS_API_KEY=your_gnews_api_key
 ### 4️⃣ Run the App
 
 ```bash
-npm start
+npm run dev
 ```
 
-The app will open at `http://localhost:3000`
+The app will open at `http://localhost:5173`
 
 ---
 
