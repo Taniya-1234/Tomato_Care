@@ -71,7 +71,7 @@ A web-based platform built to assist farmers and agricultural enthusiasts by pro
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/tomato_care.git
+git clone https://github.com/Tomato_Care/tomato_care.git
 cd tomato_care
 npm install
 ```
